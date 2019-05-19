@@ -7,9 +7,9 @@ Para jugar el juego, los jugadores tienen que elegir una posición de la matriz 
 
 Las posiciones estan asignadas de la siguiente manera:
 
-1 2 3
-4 5 6
-7 8 9
+1 2 3\n
+4 5 6\n
+7 8 9\n
 
 Por ejemplo, si un jugador quiere marcar en la esquina de arriba a la derecha, tendrá que elegir el 3 (como se muestra en la siguiente imagen). 
 
