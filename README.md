@@ -7,7 +7,7 @@ Para jugar el juego, los jugadores tienen que elegir una posición de la matriz 
 
 Las posiciones estan asignadas de la siguiente manera:
 
-1  2  3  
+1   2   3  
 4 5 6  
 7 8 9  
 
